@@ -3,8 +3,8 @@ In this project, I aim to conduct an exploratory data analysis (EDA) on Amazon o
 
 # Key Objectives:
 1 - Gain a comprehensive understanding of data Order details, Order status, Product categories, and other fulfilment information.
-2 - Analyze pattern including peak sales month, product size, product categories, Highest Order achieved from location for marketing strtegies 
-3 - Visualize the findings for easy comprehensive and decision makings 
+2 - Analyze pattern including peak sales month, product size, product categories, Highest Order achieved from location for marketing strtegies. 
+3 - Visualize the findings for easy comprehensive and decision makings. 
 
 # Methodology:
 1- Data downloading 
