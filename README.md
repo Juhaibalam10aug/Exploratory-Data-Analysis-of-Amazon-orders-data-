@@ -7,8 +7,8 @@ In this project, I aim to conduct an exploratory data analysis (EDA) on Amazon o
 3 - Visualize the findings for easy comprehensive and decision makings 
 
 # Methodology:
-Data downloading 
-Data Cleaning 
-Data Preprocessing 
-Data Visulizing 
-Observation Writing 
+1- Data downloading 
+2- Data Cleaning 
+3- Data Preprocessing 
+4- Data Visulizing 
+5- Observation Writing 
